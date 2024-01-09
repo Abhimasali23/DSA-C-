@@ -1,0 +1,21 @@
+		Graph By Love Babbar   
+
+Date - 12 Sept 2022            Day - Monday
+
+1st video --> Intro, creation, implementation
+
+** Types of Graphs
+1. Undirected graphs
+2. Directed graphs
+
+Cyclic Graphs
+Acyclic Graphs 
+
+-> Representation of Graphs
+1. Adjacency Matrix (2D matrix)
+2. Adjacency List (map<int, list<int>>, vector<vector<int>> 
+
+Date - 13 sept 2022          Day - Tuesday
+
+BFS -> Breadth First Search 
+
